@@ -1,0 +1,16 @@
+{
+    "build": { "dockerfile": "Dockerfile" },
+    
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-toolsai.jupyter",
+                "ms-toolsai.vscode-jupyter-cell-tags",
+                "ms-toolsai.jupyter-keymap",
+                "yzhang.markdown-all-in-one",
+                "ms-python.python",
+                "ms-toolsai.jupyter-renderers"
+            ]
+        }
+    }
+}
